@@ -1,0 +1,2 @@
+project:
+	gcc main.c
